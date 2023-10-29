@@ -1,18 +1,24 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: Recipes
+permalink: /recipes/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Recipes
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 🍝 Primera 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- [Tomatensuppe](/?recipe=tomatosoup)
+- [Pizza](/?recipe=pizza)
 
+## 🍔 Segunda
 
-[jekyll-organization]: https://github.com/jekyll
+- [Smashed Burger](/?recipe=smashed-burger) 
+- [Nachos](/?recipe=nachos)
+- [Enchiladas](/?recipe=enchiladas)
+
+## 🥗 Tercera
+
+- [Röstkartoffeln](/?recipe=roast-potatoes)
+- [Nudelsalat](/?recipe=pasta-salad)
+- [Arroz Rojo / Mexikanischer Reis](/?recipe=arroz-rojo)
