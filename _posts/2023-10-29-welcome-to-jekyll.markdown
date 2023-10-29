@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Title"
+title:  "New Title  for Oyku"
 date:   2023-10-29 11:45:44 +0000
 categories: jekyll update
 ---
